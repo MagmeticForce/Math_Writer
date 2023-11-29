@@ -2,11 +2,17 @@
 
 Welcome to the Math Writer software!
 
-This software alleviates the struggle of manually handwriting every single math symbol.. Similarly to how you can type text in a text document instead of handwriting it with pencil and paper, this Math Writer software allows you to type out your math work instead of having to handwrite it.
+This software alleviates the struggle of manually handwriting every single math symbol. Similarly to how you can type text in a text document instead of handwriting it with pencil and paper, this Math Writer software allows you to type out your math work instead of having to handwrite it. With just the presses of your keys, you can easily write out your math work and save a lot of time and effort.
+
+In this software, each key on your keyboard corresponds to a math symbol. At the top, there is a guide that displays which math symbol corresponds to which key. Additionally, a list of keyboard controls are listed further down below in this document.
+
+This software has two modes that you can turn on and off: Regular Keyboard Mode and Small Mode.
+* Regular Keyboard Mode (Alt key) makes the keyboard function like a normal keyboard. So instead of each key corresponding to a math symbol, you can simply just type out letters and do most things you can normally do with your keyboard. This includes typing uppercase and lowercase letters with Shift (note that Caps Lock is not supported and therefore will not work); typing symbols, such as !, @, #, $, %, ;, /, etc; and adding Spaces with your Spacebar. This mode is useful for writing functions such as log, e, sin, cos, other trig functions, and lim. It's also useful for: using variable letters aside from x and y; writing "dx" or "du" when evaluating integrals; or simply just writing out words!
+* Small Mode (Tab key) moves the cursor in smaller increments and allows you to place smaller numbers and symbols. This mode is useful for powers, subscripts, and integration limits.
 
 IMPORTANT: this program does not have Save or Load functionality. It is recommended that you take pictures of your work instead. 
 
-KEYBOARD CONTROLS:
+KEYBOARD CONTROLS (with Regular Keyboard Mode turned OFF):
 * TOP ROW:
     * ` is theta
     * 1 is 1
@@ -19,7 +25,7 @@ KEYBOARD CONTROLS:
     * 8 is 8
     *  9 is 9
     *  0 is 0
-    *  Backspace = Erase
+    *  Backspace is Erase
 * SECOND ROW:
     * Tab switches between Small Mode and Normal Mode
     * Q is +
@@ -30,7 +36,7 @@ KEYBOARD CONTROLS:
     * Y is y
     * U is full square root
     * I is incomplete square root
-    * O is square root corner (use it with the incoplete square root, the bottom horizontal line, and          if needed, the right-hand vertical line)
+    * O is square root corner (use it with the incomplete square root (I key), the bottom horizontal line (A key), and if needed, the right-hand vertical line (B key))
 * THIRD ROW
     * A is bottom horizontal line
     * S is middle horizontal line
@@ -52,12 +58,16 @@ KEYBOARD CONTROLS:
     * M is integral
     * , is ,
     * . is .
-    * Shift is Shift. Use it to do "Shift + Arrows" to pan/scroll, or use it while in Regular                  Keyboard Mode.
+    * Shift is Shift. Use it to do "Shift + Arrows" to pan/scroll, or use it while in Regular Keyboard Mode.
 * BOTTOM ROW
-    * Alt switches to Regular Keyboard Mode, where you can type letters instead of placing math symbols.       You can also place symbols such as !, @, #, etc in this mode too just like you would if you were         typing like usual.
+    * Alt switches to Regular Keyboard Mode, where you can type letters instead of placing math symbols. You can also place symbols such as !, @, #, etc in this mode too just like you would if you were typing like usual.
     * Arrow keys move the cursor. Use "Shift + Arrow Keys" to scroll/pan
  
-Pleas note that the following keyys are not supported in Regular keyboard Mode:
+Pleas note that the following keys are not supported in Regular Keyboard Mode:
 * tilda (`) or wavy dash (~)
+* Enter
+* Caps Lock
 
- Using this software may be a bit slow at first since you must get familiar with the keys. However, it's much better than handwriting every symbol (sine you can place a symbol with just the press of a keyboard button), and in addition, you will become fastr and faster at using this program the more you use it.
+Using this software may be a bit slow at first since you must get familiar with the keys. However, it's much better than handwriting every symbol given the fact that you can place each symbol with just the press of a keyboard button, and in addition, you will become faster and faster at using this program the more you use it. Once you get familiar with this software, writing math work will be much easier and much faster, and overall just much more efficient.
+
+Happy problem solving! :)
