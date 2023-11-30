@@ -10,7 +10,7 @@ This software has two modes that you can turn on and off: Regular Keyboard Mode 
 * Regular Keyboard Mode (Alt key) makes the keyboard function like a normal keyboard. So instead of each key corresponding to a math symbol, you can simply just type out letters and do most things you can normally do with your keyboard. This includes typing uppercase and lowercase letters with Shift (note that Caps Lock is not supported and therefore will not work); typing symbols, such as !, @, #, $, %, ;, /, etc; and adding Spaces with your Spacebar. This mode is useful for writing functions such as log, e, sin, cos, other trig functions, and lim. It's also useful for: using variable letters aside from x and y; writing "dx" or "du" when evaluating integrals; or simply just writing out words!
 * Small Mode (Tab key) moves the cursor in smaller increments and allows you to place smaller numbers and symbols. This mode is useful for powers, subscripts, and integration limits.
 
-IMPORTANT: this program does not have Save or Load functionality. It is recommended that you take pictures of your work instead. 
+IMPORTANT: this program does not have Save or Load functionality. It is recommended that you take pictures of your work instead. If I have time, I might include this feature.
 
 IMPPORTANT: if you cannot close out of the software, you can use the "Alt + Tab" or "Command + Tab" shortcut to switch to another window. Then you can perhaps close it from your Task Bar at the bottom. Alternatively, if you're on Windows, you can do "Ctrl + Alt + Delete" to open the Task Manager, and you can close the program through there. Or, if you're on Mac, you can do "Command + Option + Escape" to force close the program.
 
@@ -73,6 +73,8 @@ Pleas note that the following keys are not supported in Regular Keyboard Mode:
 Here are some demos:
 * https://www.youtube.com/watch?v=MMvASN2TDyg
 * https://youtu.be/yK_q4fSILrw?si=H3A8FxFO52DaMqP5
+
+Note that this is a Mavnen project, so make sure Maven and Java is installed.
 
 Using this software may be a bit slow at first since you must get familiar with the keys. However, it's much better than handwriting every symbol given the fact that you can place each symbol with just the press of a keyboard button, and in addition, you will become faster and faster at using this program the more you use it. Once you get familiar with this software, writing math work will be much easier and much faster, and overall just much more efficient.
 
