@@ -12,6 +12,8 @@ This software has two modes that you can turn on and off: Regular Keyboard Mode 
 
 IMPORTANT: this program does not have Save or Load functionality. It is recommended that you take pictures of your work instead. 
 
+IMPPORTANT: if you cannot close out of the software, you can use the "Alt + Tab" shortcut to switch to another window. Then you can perhaps close it from your Task Bar at the bottom. Alternatively, if you're on Windows, you can do "Ctrl + Alt + Delete" to open the Task Manager, and you can close the program through there.
+
 KEYBOARD CONTROLS (with Regular Keyboard Mode turned OFF):
 * TOP ROW:
     * ` is theta
@@ -67,7 +69,6 @@ Pleas note that the following keys are not supported in Regular Keyboard Mode:
 * tilda (`) or wavy dash (~)
 * Enter
 * Caps Lock
-
 
 Here are some demos:
 * https://www.youtube.com/watch?v=MMvASN2TDyg
