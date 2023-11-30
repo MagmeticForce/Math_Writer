@@ -68,6 +68,11 @@ Pleas note that the following keys are not supported in Regular Keyboard Mode:
 * Enter
 * Caps Lock
 
+
+Here are some demos:
+* https://www.youtube.com/watch?v=MMvASN2TDyg
+* https://youtu.be/yK_q4fSILrw?si=H3A8FxFO52DaMqP5
+
 Using this software may be a bit slow at first since you must get familiar with the keys. However, it's much better than handwriting every symbol given the fact that you can place each symbol with just the press of a keyboard button, and in addition, you will become faster and faster at using this program the more you use it. Once you get familiar with this software, writing math work will be much easier and much faster, and overall just much more efficient.
 
 Happy problem solving! :)
