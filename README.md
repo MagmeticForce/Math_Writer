@@ -12,7 +12,7 @@ This software has two modes that you can turn on and off: Regular Keyboard Mode 
 
 IMPORTANT: this program does not have Save or Load functionality. It is recommended that you take pictures of your work instead. 
 
-IMPPORTANT: if you cannot close out of the software, you can use the "Alt + Tab" or "Command + Tab" shortcut to switch to another window. Then you can perhaps close it from your Task Bar at the bottom. Alternatively, if you're on Windows, you can do "Ctrl + Alt + Delete" to open the Task Manager, and you can close the program through there. Or, if you're on Mac, you can do "Command + Option + Escape" to force close the program
+IMPPORTANT: if you cannot close out of the software, you can use the "Alt + Tab" or "Command + Tab" shortcut to switch to another window. Then you can perhaps close it from your Task Bar at the bottom. Alternatively, if you're on Windows, you can do "Ctrl + Alt + Delete" to open the Task Manager, and you can close the program through there. Or, if you're on Mac, you can do "Command + Option + Escape" to force close the program.
 
 KEYBOARD CONTROLS (with Regular Keyboard Mode turned OFF):
 * TOP ROW:
