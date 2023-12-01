@@ -60,6 +60,7 @@ KEYBOARD CONTROLS (with Regular Keyboard Mode turned OFF):
     * M is integral
     * , is ,
     * . is .
+    * * / adds a "cancel cross," which you can use for terms that cancel each other out (for example, "-4x + 4x").
     * Shift is Shift. Use it to do "Shift + Arrows" to pan/scroll, or use it while in Regular Keyboard Mode.
 * BOTTOM ROW
     * Left Alt switches to Regular Keyboard Mode, where you can type letters instead of placing math symbols. You can also place symbols such as !, @, #, etc in this mode too just like you would if you were typing like usual.
