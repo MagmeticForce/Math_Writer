@@ -12,7 +12,7 @@ This software has two modes that you can turn on and off: Regular Keyboard Mode 
 
 IMPORTANT: this program does not have Save or Load functionality. It is recommended that you take pictures of your work instead. If I have time, I might include this feature.
 
-IMPPORTANT: if you cannot close out of the software, you can use the "Alt + Tab" or "Command + Tab" shortcut to switch to another window. Then you can perhaps close it from your Task Bar at the bottom. Alternatively, if you're on Windows, you can do "Ctrl + Alt + Delete" to open the Task Manager, and you can close the program through there. Or, if you're on Mac, you can do "Command + Option + Escape" to force close the program.
+IMPORTANT: if you cannot close out of the software, you can use the "Alt + Tab" or "Command + Tab" shortcut to switch to another window. Then you can perhaps close it from your Task Bar at the bottom. Alternatively, if you're on Windows, you can do "Ctrl + Alt + Delete" to open the Task Manager, and you can close the program through there. Or, if you're on Mac, you can do "Command + Option + Escape" to force close the program.
 
 KEYBOARD CONTROLS (with Regular Keyboard Mode turned OFF):
 * TOP ROW:
@@ -74,7 +74,7 @@ Here are some demos:
 * https://www.youtube.com/watch?v=MMvASN2TDyg
 * https://youtu.be/yK_q4fSILrw?si=H3A8FxFO52DaMqP5
 
-Note that this is a Mavnen project, so make sure Maven and Java is installed.
+Note that this is a Maven project, so make sure Maven and Java is installed.
 
 Using this software may be a bit slow at first since you must get familiar with the keys. However, it's much better than handwriting every symbol given the fact that you can place each symbol with just the press of a keyboard button, and in addition, you will become faster and faster at using this program the more you use it. Once you get familiar with this software, writing math work will be much easier and much faster, and overall just much more efficient.
 
