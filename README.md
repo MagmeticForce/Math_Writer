@@ -7,7 +7,7 @@ This software alleviates the struggle of manually handwriting every single math 
 In this software, each key on your keyboard corresponds to a math symbol. At the top, there is a guide that displays which math symbol corresponds to which key. Additionally, a list of keyboard controls are listed further down below in this document.
 
 This software has two modes that you can turn on and off: Regular Keyboard Mode and Small Mode.
-* Regular Keyboard Mode (Alt key) makes the keyboard function like a normal keyboard. So instead of each key corresponding to a math symbol, you can simply just type out letters and do most things you can normally do with your keyboard. This includes typing uppercase and lowercase letters with Shift (note that Caps Lock is not supported and therefore will not work); typing symbols, such as !, @, #, $, %, ;, /, etc; and adding Spaces with your Spacebar. This mode is useful for writing functions such as log, e, sin, cos, other trig functions, and lim. It's also useful for: using variable letters aside from x and y; writing "dx" or "du" when evaluating integrals; or simply just writing out words!
+* Regular Keyboard Mode (Left Alt key) makes the keyboard function like a normal keyboard. So instead of each key corresponding to a math symbol, you can simply just type out letters and do most things you can normally do with your keyboard. This includes typing uppercase and lowercase letters with Shift (note that Caps Lock is not supported and therefore will not work); typing symbols, such as !, @, #, $, %, ;, /, etc; and adding Spaces with your Spacebar. This mode is useful for writing functions such as log, e, sin, cos, other trig functions, and lim. It's also useful for: using variable letters aside from x and y; writing "dx" or "du" when evaluating integrals; or simply just writing out words!
 * Small Mode (Tab key) moves the cursor in smaller increments and allows you to place smaller numbers and symbols. This mode is useful for powers, subscripts, and integration limits.
 
 IMPORTANT: this program does not have Save or Load functionality. It is recommended that you take pictures of your work instead. If I have time, I might include this feature.
@@ -62,7 +62,7 @@ KEYBOARD CONTROLS (with Regular Keyboard Mode turned OFF):
     * . is .
     * Shift is Shift. Use it to do "Shift + Arrows" to pan/scroll, or use it while in Regular Keyboard Mode.
 * BOTTOM ROW
-    * Alt switches to Regular Keyboard Mode, where you can type letters instead of placing math symbols. You can also place symbols such as !, @, #, etc in this mode too just like you would if you were typing like usual.
+    * Left Alt switches to Regular Keyboard Mode, where you can type letters instead of placing math symbols. You can also place symbols such as !, @, #, etc in this mode too just like you would if you were typing like usual.
     * Arrow keys move the cursor. Use "Shift + Arrow Keys" to scroll/pan
  
 Pleas note that the following keys are not supported in Regular Keyboard Mode:
